@@ -1,0 +1,20 @@
+{
+  "name": "Agenda Universitaria 2026-2027",
+  "short_name": "Agenda Uni",
+  "start_url": "./agenda_universitaria_2026_2027.html",
+  "display": "standalone",
+  "background_color": "#FBF9F5",
+  "theme_color": "#FBF9F5",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
