@@ -1,7 +1,7 @@
 {
   "name": "Agenda Universitaria 2026-2027",
   "short_name": "Agenda Uni",
-  "start_url": "./agenda_universitaria_2026_2027.html",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#FBF9F5",
   "theme_color": "#FBF9F5",
